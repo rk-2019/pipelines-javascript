@@ -2,6 +2,8 @@
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
+[![Build Status](https://dev.azure.com/ADODemo/JSPipeline/_apis/build/status/rk-2019.pipelines-javascript?branchName=master)](https://dev.azure.com/ADODemo/JSPipeline/_build/latest?definitionId=1&branchName=master)
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=7) |
